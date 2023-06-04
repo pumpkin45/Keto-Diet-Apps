@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "216442101562",
+    "project_id": "pmls-ketodiet",
+    "storage_bucket": "pmls-ketodiet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216442101562:android:d9eb357fe6ef5edbe03a03",
+        "android_client_info": {
+          "package_name": "com.mydomain.flutterkhadijah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216442101562-bnd5qt1tqqj8bf9r1qd5d02mdvvfuknn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXV4zndydkDBlm2f2N6OQg_-9JPrYBv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216442101562-bnd5qt1tqqj8bf9r1qd5d02mdvvfuknn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216442101562:android:c4a2dfb4bb09e524e03a03",
+        "android_client_info": {
+          "package_name": "com.mydomain.pmlsketodietproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216442101562-bnd5qt1tqqj8bf9r1qd5d02mdvvfuknn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXV4zndydkDBlm2f2N6OQg_-9JPrYBv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216442101562-bnd5qt1tqqj8bf9r1qd5d02mdvvfuknn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
